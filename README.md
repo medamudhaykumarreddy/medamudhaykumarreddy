@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @medamudhaykumarreddy
 - 👀 I’m interested in developing and designing the interface of the web pages.
-- 🌱 I’m currently learning Java Full Stack Web Development.
-- 💞️ I’m looking to working in a challenging organization.
+- 🌱 I’m currently learning Java Full Stack Web Development at AccioJob.
+- 💞️ I’m participating in a 100 days coding challenging at AccioJob.
+- I'm good at Core Java(DSA), HTML & CSS.
 - 📫 How to reach me mudhay06@gmail.com
 
 <!---
